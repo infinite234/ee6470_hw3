@@ -120,7 +120,7 @@ lena_gauss.bmp<br/>
 ![target image](https://raw.githubusercontent.com/infinite234/ee6470/main/hw1/gauss_fiter_cpp/lena_gauss2.bmp)<br/><br/>
 
 ## Simulation Results
-The gaussian part implementation using FIFO channels completes in 655366 ns and the pixel count is equal to 589824.
+The gaussian part implementation using FIFO channels completes in 1245187 ns.
 Simulation for gaussian_fifo.<br/>
 
 ![source image](https://github.com/infinite234/ee6470_hw3/blob/main/Screenshot%20from%202021-03-30%2015-20-47.png)<br/>
