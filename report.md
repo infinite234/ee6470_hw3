@@ -1,4 +1,4 @@
-# Homework-2: In this homework we will implement Gaussian blur and testbench modules (same function as defined in homework 2) with TLM 2.0 sockets.
+# Homework-3: In this homework we will implement Gaussian blur and testbench modules (same function as defined in homework 2) with TLM 2.0 sockets.
 
 ### _Shivani Singh (309591030)_
 
