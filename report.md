@@ -107,7 +107,7 @@ Testbench tb("tb");
 ## Algorithm and Design
 The following design is for the FIFO implementation of the gaussian filter in TLM.
 
-![source image](https://github.com/infinite234/ee6470-hw3/main/tlm.png)<br/>
+![source image](https://github.com/infinite234/ee6470_hw3/blob/main/tlm.png)<br/>
 
 
 ## Experimental results
@@ -123,7 +123,7 @@ lena_gauss.bmp<br/>
 The gaussian part implementation using FIFO channels completes in 655366 ns and the pixel count is equal to 589824.
 Simulation for gaussian_fifo.<br/>
 
-![source image](https://github.com/infinite234/ee6470-hw2/blob/main/hw2/cache_gaussian_fifo/simulation.png)<br/>
+![source image](https://github.com/infinite234/ee6470_hw3/blob/main/Screenshot%20from%202021-03-30%2015-20-47.png)<br/>
 
 
 ## Conclusion
